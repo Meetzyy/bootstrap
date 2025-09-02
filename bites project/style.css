@@ -1,0 +1,48 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: black;
+}
+
+
+.navmain
+{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+.navmain nav
+{
+    width: 90%;
+}
+.navmain nav a
+{
+    color: black;
+}
+.navmain nav .menuul
+{
+    background-color: black;
+}
+
+
+.heading
+{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.menu img
+{
+    width: auto;
+    height: 300px;
+    object-fit: cover;
+}
